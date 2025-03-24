@@ -1,3 +1,52 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "e188",
+      "subject": "Operation System I",
+      "description": "Develop primitives Linux System Calls and run it",
+      "difficulty": "Low",
+      "status": "todo",
+      "date": "2025-09-21"
+    },
+    {
+      "id": "297b",
+      "subject": "Data Structures and Algorithms I",
+      "description": "Make a Binary and B Tree in C",
+      "difficulty": "Medium",
+      "status": "done",
+      "date": "2025-06-25"
+    },
+    {
+      "id": "7964",
+      "subject": "Software Engineering II",
+      "description": "To develop a Manager System based on Software Engineering principles and apply Scrum methodology, here’s a comprehensive plan, including a brief lecture that explains the process:",
+      "difficulty": "Medium",
+      "status": "todo",
+      "date": "2025-07-22"
+    },
+    {
+      "id": "4783",
+      "subject": "Artifical Inteligence II",
+      "description": "Implementing a Advanced Search Algorithm with group of 3",
+      "difficulty": "High",
+      "status": "doing",
+      "date": "2025-10-03"
+    },
+    {
+      "id": "8d77",
+      "subject": "Machine Learning II",
+      "description": "Implementing a Linear Regression Model",
+      "difficulty": "High",
+      "status": "done",
+      "date": "2025-06-23"
+    },
+    {
+      "id": "be02",
+      "subject": "Linear Algebra",
+      "description": "In this assignment, you will implement Principal Component Analysis (PCA) from scratch to reduce the dimensionality of a dataset. PCA is a widely used technique in data analysis and machine learning for reducing the number of features while preserving as much variance in the data as possible.",
+      "difficulty": "High",
+      "status": "done",
+      "date": "2025-07-23"
+    }
+  ]
 }
